@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="it">
+<head><style>
+  body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+  }
+
+  h1 {
+    color: blue;
+  }
+  h1 img {
+  width: 300px;
+}
+</style>
+  <meta charset="UTF-8">
+  <title>Il mio primo sito</title>
+</head>
+<body><img src="immagini/foto.png.jpg" alt="FORZA NAPOLI">
+
+  <h1>Ciao mondo 👋</h1>
+  <p>Questo è il mio primo sito
+    sto imparando da 0 e riuscirò a programmare.</p>
+<p>Giorno 1: questo è il mio primo giorno di programmazione, sono molto entusiasta di imparare e creare cose nuove!
+</p>
+</body>
+</html>
